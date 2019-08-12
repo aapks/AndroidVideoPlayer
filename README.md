@@ -8,7 +8,7 @@
 ###Update Logs
 *1、Add DLNA Support*  
 *2、Fix bugs*
-
+[simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 
 `Screenshots` 
 ##NetEaseNews Player
